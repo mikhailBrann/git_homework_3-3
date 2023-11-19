@@ -1,2 +1,7 @@
-# git_homework_3-3
-Test github pages
+# Hello world
+
+My name Mickhail.
+I like writing code in 🐘
+
+### It's me
+![Мое фото](avatar.jpg)
